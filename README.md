@@ -143,10 +143,6 @@ This tool is provided for educational and research purposes only. It does not co
 
 This project is licensed under the [MIT License](LICENSE).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 
 [AK60000](https://github.com/AK60000)
