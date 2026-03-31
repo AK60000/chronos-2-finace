@@ -139,6 +139,14 @@ This tool is provided for educational and research purposes only. It does not co
 - [Chronos Forecasting GitHub](https://github.com/amazon-science/chronos-forecasting)
 - [Technical Paper](https://arxiv.org/abs/2510.15821)
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Author
 
 [AK60000](https://github.com/AK60000)
