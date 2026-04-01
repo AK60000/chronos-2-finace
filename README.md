@@ -1,5 +1,7 @@
 # Chronos-2 Stock Prediction System
 
+[**Live Demo / 在线体验**](http://cwj0.ysjohnson.top/stock/)
+
 A stock price forecasting tool built on Amazon's Chronos-2 time series foundation model, featuring real-time data ingestion from Sina Finance and an interactive Streamlit dashboard.
 
 ## Architecture
