@@ -1,6 +1,6 @@
 # Chronos-2 股票预测系统
 
-[**在线体验 / Live Demo**](http://cwj0.ysjohnson.top/stock/)
+[**English Version**](README.md) | [**在线体验**](http://cwj0.ysjohnson.top/stock/)
 
 基于亚马逊 Chronos-2 时间序列大模型的股票价格预测工具。集成了新浪财经实时数据抓取功能，并提供交互式的 Streamlit 仪表盘。
 
